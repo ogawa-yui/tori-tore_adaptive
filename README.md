@@ -35,6 +35,6 @@ The following assets are used under Creative Commons licenses.
 ### Image Assets (Wikipedia / Wikimedia Commons)
 - **Japanese Green Woodpecker (Aogera)**: Photo by Cory - CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
 - **Common Cuckoo (Kakko)**: Photo by Tim Peukert - CC BY-SA 3.0
-- **Chinese Hwamei (Gabicho)**: Photo by Charles Lam - CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/deed.ja)
-- **Lesser Cuckoo (Hototogisu)**: Photo by Ron Knight from Seaford, East Sussex, United Kingdom - CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/deed.ja)
+- **Chinese Hwamei (Gabicho)**: Photo by Charles Lam - CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **Lesser Cuckoo (Hototogisu)**: Photo by Ron Knight from Seaford, East Sussex, United Kingdom - CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
 - **Asian Stubtail (Yabusame)**: Photo by M.Nishimura - CC BY-SA 3.0
