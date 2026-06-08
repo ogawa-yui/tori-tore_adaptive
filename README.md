@@ -17,22 +17,30 @@ This repository contains the application logic and source codes. To run the syst
 
 ---
 ## [IMPORTANT NOTICE]
-This license applies **only to the source code** within this repository. 
-All media assets (audio, spectrograms, and images) used in the live version of this project are **EXCLUDED** from this MIT License.
+This license applies primarily to the source code within this repository. 
+Regarding media assets (audio, spectrograms, and images), the terms vary depending on the author and source:
 
-1. **Third-Party Licensed Assets (CC BY-SA / CC BY-NC)**: Some assets are used under Creative Commons licenses (e.g., from Wikipedia, xeno-canto). These are provided by their respective creators and are subject to their own original licenses.
-2. **Private/Provided Assets**: Assets provided by specific organizations (Japan Bird Research Association) or individuals are used with direct permission and are **strictly prohibited from redistribution or unauthorized reuse.**
+* **Sample Assets Included in This Repository (CC BY 4.0):** We have included a set of sample bird images provided by **A. Takenaka**. These specific assets are explicitly included under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to share and adapt them, provided that proper credit is given to the author (A. Takenaka).
+* **Excluded / Private Assets:** Audio files (`mp3/`) and certain other images used in the live version of this project are **EXCLUDED** from the default repository and this MIT License due to copyright restrictions. 
+* **Third-Party Licensed Assets:** Some assets used in the live system operate under their respective Creative Commons licenses (e.g., from Wikipedia, xeno-canto).
+* **Direct Permission Assets:** Assets provided by specific organizations (e.g., Japan Bird Research Association) are used with direct permission on the live site and are strictly prohibited from redistribution.
 
 ### [CORRECTION NOTICE]
 Between June 2023 and April 2026, some of these assets were inadvertently included in this repository without a clear distinction of their original licenses. We have since completely removed the file history to correct this licensing error and ensure compliance with the original terms.
+As of June 2026, the only media assets officially packaged into this repository are the sample images under the CC BY 4.0 license as specified below.
 
-## Credits (Third-Party Assets)
-The following assets are used under Creative Commons licenses.
+## Credits (Media Assets)
+### Included Sample Image Assets
+The following sample images are included in this repository and are licensed under **CC BY 4.0**:
+* **Sample Bird Images (`img/`):** Copyright © **A. Takenaka** - Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
-### Audio Assets
+### Third-Party Media Assets (Required for full deployment)
+The following assets are used in the live project under their respective Creative Commons licenses. To fully replicate the system, you must obtain these (or your own) assets and place them in the `mp3/` and `img/` directories.
+
+#### Audio Assets
 - **xeno-canto**: Recording by Anon Torimi - CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### Image Assets (Wikipedia / Wikimedia Commons)
+#### Image Assets (Wikipedia / Wikimedia Commons)
 - **Japanese Green Woodpecker (Aogera)**: Photo by Cory - CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
 - **Common Cuckoo (Kakko)**: Photo by Tim Peukert - CC BY-SA 3.0
 - **Chinese Hwamei (Gabicho)**: Photo by Charles Lam - CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
